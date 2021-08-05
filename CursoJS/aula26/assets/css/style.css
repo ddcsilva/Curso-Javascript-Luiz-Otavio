@@ -67,3 +67,10 @@ form button:hover {
 .error {
   background-color : lightcoral; 
 }
+
+.message-error {
+  color: red;
+  padding: 10px 20px;
+  text-align: center;
+  font-weight: bold;
+}
